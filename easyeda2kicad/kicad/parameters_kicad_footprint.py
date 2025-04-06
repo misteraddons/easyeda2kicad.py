@@ -15,7 +15,7 @@ KI_DESCRIPTION = (
 KI_TAGS_INFO = '\t(tags "{tag}")\n'
 KI_FP_TYPE = "\t(attr {component_type})\n"
 KI_REFERENCE = (
-    "\t(fp_text reference REF** (at {pos_x} {pos_y}) (layer F.SilkS)\n\t\t(effects"
+    "\t(fp_text reference REF** (at {pos_x} {pos_y}) (layer User.9)\n\t\t(effects"
     " (font (size 1 1) (thickness 0.15)))\n\t)\n"
 )
 KI_PACKAGE_VALUE = (
